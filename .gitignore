@@ -11,6 +11,13 @@ Testing
 compile_commands.json
 
 # executables
+<<<<<<< HEAD
 http_examples
 https_examples
 parse_test
+=======
+ws_examples
+wss_examples
+crypto_test
+parse_test
+>>>>>>> upstream/master
